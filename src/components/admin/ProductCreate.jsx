@@ -83,7 +83,7 @@ const ProductCreate = () => {
 
                 <br/> <br/>
 
-                <button type="submit"> tilføj nyt produkt </button>
+                <button className="btn btn-secondary my-3" type="submit"> tilføj nyt produkt </button>
 
 
             </form>
