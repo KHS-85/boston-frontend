@@ -25,7 +25,6 @@ const AdminLayout = (props) => {
             
             {props.children}
 
-            < Footer  />
 
         </div>
     )
